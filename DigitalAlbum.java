@@ -1,3 +1,7 @@
+/**
+ * interface for Digital Album
+ * @author Harrison Andrade
+ */
 public interface DigitalAlbum {
     public String playFromBeginning();
     public String playSong(int num);
